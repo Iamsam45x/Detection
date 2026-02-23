@@ -1,3 +1,8 @@
+dataset
+dataset/original
+dataset/tampered
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -215,6 +220,3 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-./dataset
-./dataset/original
-./dataset/tampered
